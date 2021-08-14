@@ -37,7 +37,7 @@ class _MainPageState extends State<MainPage> {
     "HOME",
     "SOBRE",
     "SERVIÇOS",
-    "PORTFÓLIO",
+    "EXPERIÊNCIA",
     "CONTATO"
   ];
 

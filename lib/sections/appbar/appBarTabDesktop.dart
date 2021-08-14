@@ -25,7 +25,7 @@ class _AppBarTabDesktopState extends State<AppBarTabDesktop> {
     "HOME",
     "SOBRE",
     "SERVIÇOS",
-    "PORTFÓLIO",
+    "EXPERIÊNCIA",
     "CONTATO"
   ];
 

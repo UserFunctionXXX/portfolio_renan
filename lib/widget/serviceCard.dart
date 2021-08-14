@@ -54,7 +54,7 @@ class _ServiceCardState extends State<ServiceCard> {
         }
       },
       child: FlipCard(
-        flipOnTouch: kIsWeb ? false : true,
+        flipOnTouch: true,
         key: cardKey,
         back: Container(
             width: widget.cardWidth,

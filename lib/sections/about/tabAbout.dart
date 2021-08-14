@@ -37,7 +37,7 @@ class AboutTab extends StatelessWidget {
             backgroundColor: kPrimaryColor,
             child: CircleAvatar(
               radius: 50,
-              backgroundColor: Colors.black,
+              backgroundColor: _themeProvider.lightTheme ? Colors.white : Colors.black,
               backgroundImage: AssetImage('assets/1_fundo_pb.png'),
             ),
           ),
