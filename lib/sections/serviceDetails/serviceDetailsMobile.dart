@@ -104,9 +104,9 @@ class _ServiceDetailsMobileState extends State<ServiceDetailsMobile> {
                   AdaptiveText(
                     widget.serviceTitle,
                     style: GoogleFonts.montserrat(
-                      fontSize: 25.0,
+                      fontSize: 23.0,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 1.2,
+                      letterSpacing: 1.1,
                       color: _themeProvider.lightTheme
                           ? Colors.black
                           : Colors.white,
